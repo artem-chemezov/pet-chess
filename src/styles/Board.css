@@ -1,0 +1,13 @@
+.Board {
+    border:  #0af098 4px solid;
+    height: 650px;
+    width: 650px;
+    margin: auto;
+    margin-top: 70px;
+
+}
+
+.Row {
+    display: flex;
+    height: 12.5%;
+}

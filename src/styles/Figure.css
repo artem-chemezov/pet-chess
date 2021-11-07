@@ -1,0 +1,17 @@
+.figureWrapper {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.figure {
+    color: rgb(5, 105, 145);
+    font-size: 40px;
+    border: black 0px solid;
+    background: none;
+    cursor: pointer ;
+}
+
+.isWhiteFigure {
+    color: rgb(255, 102, 0);
+}

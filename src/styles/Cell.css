@@ -1,0 +1,23 @@
+.Cell {
+    background-color: rgb(77, 77, 77);
+    width: 12.5%;
+    opacity: 0.75;
+    display: flex;
+}
+
+.white-cell {
+    background-color: white;
+}
+
+.availableForMove {
+    background-color: rgb(74, 153, 78, 0.6);
+}
+
+.availableForKill {
+    background-color: rgba(153, 74, 74, 0.6);
+}
+
+.availableWrapper {
+    width: 100%;
+    display: flex;
+}
